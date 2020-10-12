@@ -1,5 +1,5 @@
 # JSON to PPTXBuilder examples
-This repository contains a set of examples on how to perform and structure your data in order to use the PPTXBuilder API.
+This repository contains a set of examples on how to perform requests and structure your data in order to use the PPTXBuilder API.
 
 ## Get Started
 
@@ -20,7 +20,7 @@ Once you have updated the values in `get_token.py`, you can then run it and get 
 ``` $ python get_token.py ```
 
 ### How to try out the examples
-In the `example_data` folder you will find various examples on how to structure your data. Change the `convert_json_to_pptxbuilder.py` accordingly to load the data you want and the correct token.
+In the `example_data` folder you will find various examples on how to structure your data. Change the `convert_json_to_pptxbuilder.py` accordingly to load the data you want and use the correct token.
 
 
 
